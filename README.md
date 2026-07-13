@@ -1,4 +1,4 @@
-# availability_completiondate
+# Plugin availability_completiondate
 
 Moodle availability (access restriction) plugin: **"Restriction by activity
 completion date"**.
